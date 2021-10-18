@@ -1,0 +1,47 @@
+ /* https://www.w3schools.com/html/html_css.asp  */
+
+h1,div {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+
+body {background-color: white; 
+   margin: 0;
+}
+.linkselector {
+    border: 1px solid blue;
+    padding: 10px;
+    text-decoration: none;
+}
+.Date{
+    float: right;
+}
+table, td, th{
+    border: 1px solid black;
+}
+table{
+
+    width: 70%;
+    margin: 40px auto;
+}
+.Subtitle{
+    float: left;
+}
+nav{
+    background-color: burlywood;
+    padding: 10px;
+    display: flex; 
+    flex-direction: row;
+    justify-content: space-between;
+}
+/* nav>span{
+    margin: 0 20px 0 20px ;
+} */
+/* /* .link{
+    float: right;
+} */
+.link{
+    margin-top: 25px;
+}
