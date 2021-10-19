@@ -58,7 +58,7 @@ img{
     font-family: cursive;
     font-size: 30px;
 }
-.paragraphs {
+/* .paragraphs {
     display: flex;
     justify-content: space-between;
 }
@@ -66,7 +66,7 @@ img{
     width: 50%;
     margin: 0 10px;
     text-align: justify;
-}
+} */
 
 .navbar {
     list-style-type: none;
