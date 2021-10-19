@@ -58,16 +58,6 @@ img{
     font-family: cursive;
     font-size: 30px;
 }
-/* .paragraphs {
-    display: flex;
-    justify-content: space-between;
-}
-.paragraphs> p{
-    width: 50%;
-    margin: 0 10px;
-    text-align: justify;
-} */
-
 .navbar {
     list-style-type: none;
     margin: 0;
